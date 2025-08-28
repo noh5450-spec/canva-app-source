@@ -1,0 +1,7 @@
+{
+  "name": "My Canva App",
+  "version": "0.1.0",
+  "main": "index.js",
+  "description": "A simple Canva app for testing deployment",
+  "author": "noh5450-spec"
+}
